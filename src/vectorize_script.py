@@ -12,3 +12,5 @@ vectorize_book_and_store_to_db(
     CLASS_SUBJECT_NAME, "class_12_biology_vector_db"
 )
 vectorize_chapters(CLASS_SUBJECT_NAME)
+
+#run this script to create vector db
